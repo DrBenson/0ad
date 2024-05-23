@@ -3,32 +3,38 @@
 # This file is distributed under the same license as the 0 A.D. — Empires Ascendant
 # project.
 # Translators:
-# ethan lin
-# Yuan Chang
-# 黃柏諺
-# JerryShen
-# Shoichi Chou
-# StarAtt
-# 又齊 劉
-# 可邦 陳
-# 周 桂标
+# ethan lin <ethan@tscc.tp.edu.tw>, 2018
+# Yuan Chang <daan0014119@gmail.com>, 2017
+# 黃柏諺 <s8321414@gmail.com>, 2014-2018
+# JerryShen <jerry82422@gmail.com>, 2018
+# JerryShen <jerry82422@gmail.com>, 2019
+# Shoichi Chou <shoichi.chou@gmail.com>, 2018
+# StarAtt <tea55688@gmail.com>, 2019,2021
+# Yuan Chang <daan0014119@gmail.com>, 2022-2024
+# Yuan Chang <daan0014119@gmail.com>, 2021
+# 又齊 劉 <bill19981002@gmail.com>, 2018
+# 可邦 陳 <bensoncat99@gmail.com>, 2019
+# 周 桂标 <1799973401@qq.com>, 2021
+# DrBenson <Benson.Dr@GMail.com>, 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
 "POT-Creation-Date: 2024-01-08 08:08+0000\n"
-"PO-Revision-Date: 2014-06-19 17:54+0000\n"
-"Last-Translator: Yuan Chang <daan0014119@gmail.com>, 2022-2024\n"
-"Language-Team: Chinese (Taiwan) (http://app.transifex.com/wildfire-games/0ad/language/zh_TW/)\n"
+"PO-Revision-Date: 2024-05-11 17:41+0800\n"
+"Last-Translator: DrBenson <Benson.Dr@GMail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://app.transifex.com/wildfire-"
+"games/0ad/language/zh_TW/)\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #: simulation/data/attack_effects/applystatus.jsondescription
 msgctxt "effect caused by an attack"
 msgid "Various (timed) effects."
-msgstr "多種（延時）效果。"
+msgstr "多種（延時）效果."
 
 #: simulation/data/attack_effects/applystatus.jsonname
 msgctxt "effect caused by an attack"
@@ -38,7 +44,7 @@ msgstr "套用狀態"
 #: simulation/data/attack_effects/capture.jsondescription
 msgctxt "effect caused by an attack"
 msgid "Reduces capture points of a target."
-msgstr "降低目標的占領點。"
+msgstr "降低目標的占領點."
 
 #: simulation/data/attack_effects/capture.jsonname
 msgctxt "effect caused by an attack"
@@ -48,7 +54,7 @@ msgstr "占領"
 #: simulation/data/attack_effects/damage.jsondescription
 msgctxt "effect caused by an attack"
 msgid "Reduces the health of a target."
-msgstr "降低目標的生命值。"
+msgstr "降低目標的生命值."
 
 #: simulation/data/attack_effects/damage.jsonname
 msgctxt "effect caused by an attack"
@@ -58,7 +64,7 @@ msgstr "傷害"
 #: simulation/data/damage_types/crush.jsondescription
 msgctxt "damage type"
 msgid "Damage caused by sheer force, like with a club or by trampling."
-msgstr "純由力量造成的傷害，如棍棒或踐踏。"
+msgstr "純由力量造成的傷害，如棍棒或踐踏."
 
 #: simulation/data/damage_types/crush.jsonname
 msgctxt "damage type"
@@ -68,7 +74,7 @@ msgstr "粉碎"
 #: simulation/data/damage_types/fire.jsondescription
 msgctxt "damage type"
 msgid "Damage caused by burning objects, like a torch or a flaming arrow."
-msgstr "由燃燒中的物品造成的傷害，如火炬或火箭。"
+msgstr "由燃燒中的物品造成的傷害，如火炬或火箭."
 
 #: simulation/data/damage_types/fire.jsonname
 msgctxt "damage type"
@@ -80,7 +86,7 @@ msgctxt "damage type"
 msgid ""
 "Damage caused by sharp objects cutting or chopping, like with a sword or an "
 "axe."
-msgstr "由利器砍削造成的傷害，如劍或斧。"
+msgstr "由利器砍削造成的傷害，如劍或斧."
 
 #: simulation/data/damage_types/hack.jsonname
 msgctxt "damage type"
@@ -90,7 +96,7 @@ msgstr "劈砍"
 #: simulation/data/damage_types/pierce.jsondescription
 msgctxt "damage type"
 msgid "Damage caused by sharp pointy objects, like arrows or spears."
-msgstr "由物品鋒利的尖頭造成的傷害，如箭或矛。"
+msgstr "由物品鋒利的尖頭造成的傷害，如箭或矛."
 
 #: simulation/data/damage_types/pierce.jsonname
 msgctxt "damage type"
@@ -102,7 +108,7 @@ msgctxt "damage type"
 msgid ""
 "Damage caused by venomous or poisoned objects, like a snake or a poisoned "
 "weapon."
-msgstr "由毒物造成的傷害，如蛇或淬毒的武器。"
+msgstr "由毒物造成的傷害，如蛇或淬毒的武器."
 
 #: simulation/data/damage_types/poison.jsonname
 msgctxt "damage type"
@@ -112,12 +118,12 @@ msgstr "毒"
 #: simulation/data/status_effects/burning.jsonapplierTooltip
 msgctxt "status effect"
 msgid "This unit causes fire damage."
-msgstr "此單位造成著火傷害。"
+msgstr "此單位造成著火傷害."
 
 #: simulation/data/status_effects/burning.jsonreceiverTooltip
 msgctxt "status effect"
 msgid "This unit is burning."
-msgstr "此單位著火。"
+msgstr "此單位著火."
 
 #: simulation/data/status_effects/burning.jsonstatusName
 msgctxt "status effect"
@@ -127,12 +133,12 @@ msgstr "燃燒"
 #: simulation/data/status_effects/poisoned.jsonapplierTooltip
 msgctxt "status effect"
 msgid "This unit causes poison damage."
-msgstr "此單位造成中毒傷害。"
+msgstr "此單位造成中毒傷害."
 
 #: simulation/data/status_effects/poisoned.jsonreceiverTooltip
 msgctxt "status effect"
 msgid "This unit is poisoned."
-msgstr "此單位中毒。"
+msgstr "此單位中毒."
 
 #: simulation/data/status_effects/poisoned.jsonstatusName
 msgctxt "status effect"
@@ -141,7 +147,7 @@ msgstr "中毒"
 
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:24
 msgid "Army of Alexander the Great."
-msgstr "亞歷山大大帝的軍隊。"
+msgstr "亞歷山大大帝的軍隊."
 
 #: simulation/templates/campaigns/army_mace_hero_alexander.xml:25
 msgid "Army of Alexander the Great"
@@ -151,7 +157,7 @@ msgstr "亞歷山大大帝的軍隊"
 #: simulation/templates/campaigns/army_mace_standard.xml:21
 #: simulation/templates/campaigns/army_spart_hero_leonidas.xml:26
 msgid "This is what an army would look like on the Strat Map."
-msgstr "這是一隻軍隊在戰略地圖上看起來的樣子。"
+msgstr "這是一隻軍隊在戰略地圖上看起來的樣子."
 
 #: simulation/templates/campaigns/army_mace_standard.xml:19
 msgid "Army of Macedonia"
@@ -163,7 +169,7 @@ msgstr "馬其頓王國的軍隊"
 
 #: simulation/templates/campaigns/army_spart_hero_leonidas.xml:24
 msgid "Army of Leonidas I."
-msgstr "列奧尼達一世的軍隊。"
+msgstr "列奧尼達一世的軍隊."
 
 #: simulation/templates/campaigns/army_spart_hero_leonidas.xml:25
 msgid "Army of Leonidas I"
@@ -185,7 +191,7 @@ msgstr "小型希臘城邦"
 
 #: simulation/templates/campaigns/campaign_city_minor_test.xml:24
 msgid "This is a minor Greek city."
-msgstr "這是一個希臘的小城市。"
+msgstr "這是一個希臘的小城市."
 
 #: simulation/templates/campaigns/campaign_city_test.xml:23
 msgid "Greek Polis"
@@ -193,7 +199,7 @@ msgstr "希臘城邦"
 
 #: simulation/templates/campaigns/campaign_city_test.xml:24
 msgid "This is a major Greek city."
-msgstr "這是一個希臘的主要城市。"
+msgstr "這是一個希臘的主要城市."
 
 #: simulation/templates/campaigns/campaign_religious_test.xml:12
 msgid "Religious Sanctuary"
@@ -780,7 +786,7 @@ msgstr "神話寶藏"
 
 #: simulation/templates/gaia/treasure/special_argo.xml:10
 msgid "The mythological ship of the hero Theseus and his Argonauts."
-msgstr "英雄忒修斯和他的阿爾戈英雄的神話船。"
+msgstr "英雄忒修斯和他的阿爾戈英雄的神話船."
 
 #: simulation/templates/gaia/treasure/stone.xml:8
 msgid "Stone Treasure"
@@ -1089,7 +1095,7 @@ msgstr "旋轉式磨坊"
 msgid ""
 "Dropsite for harvested Food. Capture one of these to increase nearby food "
 "production."
-msgstr "收穫食物的存放點。占領其中之一以增加附近的食物產量。"
+msgstr "收穫食物的存放點. 占領其中之一以增加附近的食物產量."
 
 #: simulation/templates/mixins/shrine.xml:12
 #: simulation/templates/mixins/shrine.xml:13
@@ -1099,7 +1105,7 @@ msgstr "神壇"
 
 #: simulation/templates/mixins/shrine.xml:18
 msgid "Train Elite Healers and heal garrisoned units."
-msgstr "訓練菁英治療者並治療駐紮單位。"
+msgstr "訓練菁英治療者並治療駐紮單位."
 
 #: simulation/templates/mixins/trading_post.xml:8
 msgid "Trading Post"
@@ -1115,7 +1121,7 @@ msgstr "移動型路障"
 #: simulation/templates/obstructors/movement_8x36.xml:11
 #: simulation/templates/obstructors/movement_8x8.xml:11
 msgid "Placement obstructor to prevent movement and construction."
-msgstr "擺放路障來避免移動和建造。"
+msgstr "擺放路障來避免移動和建造."
 
 #: simulation/templates/obstructors/placement.xml:10
 msgid "Obstructor"
@@ -1142,14 +1148,14 @@ msgstr "對有 10 人口房舍的文明變為房舍，對其他文明刪除"
 
 #: simulation/templates/skirmish/structures/default_house_5.xml:8
 msgid ""
-"Changes in a 5-pop house for civilisations with those houses, is deleted for"
-" other civs"
+"Changes in a 5-pop house for civilisations with those houses, is deleted "
+"for other civs"
 msgstr "對有 5 人口房舍的文明變為房舍，對其他文明刪除"
 
 #: simulation/templates/special/formations/anti_cavalry.xml:5
 #: simulation/templates/special/formations/testudo.xml:5
 msgid "Melee Infantry only, requires at least 16."
-msgstr "僅限近戰步兵，需要至少 16 名。"
+msgstr "僅限近戰步兵，需要至少 16 名."
 
 #: simulation/templates/special/formations/anti_cavalry.xml:25
 msgid "Anti Cavalry"
@@ -1157,7 +1163,7 @@ msgstr "反騎兵"
 
 #: simulation/templates/special/formations/anti_cavalry.xml:26
 msgid "Square formation of Melee Infantry to fight Cavalry."
-msgstr "近戰步兵的方陣陣型，用於對抗騎兵。"
+msgstr "近戰步兵的方陣陣型，用於對抗騎兵."
 
 #: simulation/templates/special/formations/battle_line.xml:13
 msgid "Battle Line"
@@ -1165,11 +1171,11 @@ msgstr "線式戰陣"
 
 #: simulation/templates/special/formations/battle_line.xml:15
 msgid "Common formation for frontal attacks."
-msgstr "常見的陣型，用於正面攻擊。"
+msgstr "常見的陣型，用於正面攻擊."
 
 #: simulation/templates/special/formations/box.xml:5
 msgid "Requires at least 4 Soldiers or Siege engines."
-msgstr "需要至少 4 名士兵或攻城武器。"
+msgstr "需要至少 4 名士兵或攻城武器."
 
 #: simulation/templates/special/formations/box.xml:12
 msgid "Box"
@@ -1177,7 +1183,7 @@ msgstr "方陣"
 
 #: simulation/templates/special/formations/box.xml:14
 msgid "Square formation to protect all sides."
-msgstr "方陣陣型，用於防衛所有方向。"
+msgstr "方陣陣型，用於防衛所有方向."
 
 #: simulation/templates/special/formations/column_closed.xml:10
 msgid "Forced March"
@@ -1185,7 +1191,7 @@ msgstr "強行軍"
 
 #: simulation/templates/special/formations/column_closed.xml:12
 msgid "Closed column formation for risky movements."
-msgstr "緊湊的列陣型，用於高風險的移動。"
+msgstr "緊湊的列陣型，用於高風險的移動."
 
 #: simulation/templates/special/formations/column_open.xml:10
 msgid "Column Open"
@@ -1193,11 +1199,11 @@ msgstr "開放縱隊"
 
 #: simulation/templates/special/formations/column_open.xml:12
 msgid "Dispersed formation for open field crossings."
-msgstr "分散陣型，用於開闊場地的路口。"
+msgstr "分散陣型，用於開闊場地的路口."
 
 #: simulation/templates/special/formations/flank.xml:5
 msgid "Requires at least 8 Soldiers or Siege engines."
-msgstr "需要至少 8 名士兵或攻城武器。"
+msgstr "需要至少 8 名士兵或攻城武器."
 
 #: simulation/templates/special/formations/flank.xml:11
 msgid "Flank"
@@ -1205,7 +1211,7 @@ msgstr "翼陣"
 
 #: simulation/templates/special/formations/flank.xml:13
 msgid "Formation to protect the sides or surprise attack the enemy flank."
-msgstr "保護側面或敵人突然攻擊側翼的陣型。"
+msgstr "保護側面或敵人突然攻擊側翼的陣型."
 
 #: simulation/templates/special/formations/line_closed.xml:9
 msgid "Close Order"
@@ -1213,7 +1219,7 @@ msgstr "密陣"
 
 #: simulation/templates/special/formations/line_closed.xml:11
 msgid "Flexible closed line formation."
-msgstr "靈活緊湊的直線陣型。"
+msgstr "靈活緊湊的直線陣型."
 
 #: simulation/templates/special/formations/line_open.xml:11
 msgid "Open Order"
@@ -1221,7 +1227,7 @@ msgstr "疏陣"
 
 #: simulation/templates/special/formations/line_open.xml:13
 msgid "Dispersed formation for open field combat."
-msgstr "分散陣型，用於開闊場地的對戰。"
+msgstr "分散陣型，用於開闊場地的對戰."
 
 #: simulation/templates/special/formations/null.xml:7
 msgid "None"
@@ -1229,7 +1235,7 @@ msgstr "無"
 
 #: simulation/templates/special/formations/phalanx.xml:5
 msgid "Infantry Hoplites only, requires at least 10."
-msgstr "僅限重裝步兵，需要至少 10 名。"
+msgstr "僅限重裝步兵，需要至少 10 名."
 
 #: simulation/templates/special/formations/phalanx.xml:23
 msgid "Phalanx"
@@ -1237,7 +1243,7 @@ msgstr "希臘方陣"
 
 #: simulation/templates/special/formations/phalanx.xml:25
 msgid "Compact formation of Infantry Hoplites creating a shield wall."
-msgstr "重裝步兵的壓縮陣型，用於形成盾牆。"
+msgstr "重裝步兵的壓縮陣型，用於形成盾牆."
 
 #: simulation/templates/special/formations/scatter.xml:8
 msgid "Scatter"
@@ -1246,7 +1252,7 @@ msgstr "分散"
 #: simulation/templates/special/formations/ships/column.xml:5
 #: simulation/templates/special/formations/ships/line_staggered.xml:5
 msgid "Requires at least 4 Ships."
-msgstr "至少需要 4 艘船。"
+msgstr "至少需要 4 艘船."
 
 #: simulation/templates/special/formations/ships/column.xml:14
 msgid "Maneuvering Column"
@@ -1254,11 +1260,11 @@ msgstr "機動列"
 
 #: simulation/templates/special/formations/ships/column.xml:16
 msgid "A column formation for fleet maneuvers."
-msgstr "一種列陣型，用於艦隊演習。"
+msgstr "一種列陣型，用於艦隊演習."
 
 #: simulation/templates/special/formations/ships/flank.xml:5
 msgid "Requires at least 8 Ships."
-msgstr "至少需要 8 艘船。"
+msgstr "至少需要 8 艘船."
 
 #: simulation/templates/special/formations/ships/flank.xml:14
 msgid "Flanking Formation"
@@ -1266,7 +1272,7 @@ msgstr "側翼陣型"
 
 #: simulation/templates/special/formations/ships/flank.xml:16
 msgid "Formation to protect the sides or surprise attack the enemy flanks."
-msgstr "一種保護側面或突襲攻擊敵人側翼的陣型。"
+msgstr "一種保護側面或突襲攻擊敵人側翼的陣型."
 
 #: simulation/templates/special/formations/ships/line_staggered.xml:17
 msgid "Fleet Battle Line"
@@ -1274,11 +1280,11 @@ msgstr "艦隊戰線"
 
 #: simulation/templates/special/formations/ships/line_staggered.xml:19
 msgid "Common fleet formation for frontal attacks."
-msgstr "用於前線攻擊的常見陣型。"
+msgstr "用於前線攻擊的常見陣型."
 
 #: simulation/templates/special/formations/skirmish.xml:4
 msgid "Ranged Soldiers only, requires at least 2."
-msgstr "僅限遠程士兵，需要至少 2 名。"
+msgstr "僅限遠程士兵，需要至少 2 名."
 
 #: simulation/templates/special/formations/skirmish.xml:14
 msgid "Skirmish"
@@ -1286,11 +1292,11 @@ msgstr "散陣"
 
 #: simulation/templates/special/formations/skirmish.xml:16
 msgid "Dispersed formation for reconnaissance, ambushes or hit-and-run."
-msgstr "分散陣型，用於偵察、伏擊或打帶跑。"
+msgstr "分散陣型，用於偵察、伏擊或打帶跑."
 
 #: simulation/templates/special/formations/syntagma.xml:5
 msgid "Infantry Pikemen only, requires at least 16."
-msgstr "僅限長槍步兵，需要至少 16 名。"
+msgstr "僅限長槍步兵，需要至少 16 名."
 
 #: simulation/templates/special/formations/syntagma.xml:29
 msgid "Syntagma"
@@ -1298,7 +1304,7 @@ msgstr "馬其頓方陣"
 
 #: simulation/templates/special/formations/syntagma.xml:31
 msgid "Compact formation of Infantry Pikemen creating a defensive wall."
-msgstr "長槍步兵的壓縮陣型，用於形成防禦牆。"
+msgstr "長槍步兵的壓縮陣型，用於形成防禦牆."
 
 #: simulation/templates/special/formations/testudo.xml:70
 msgid "Testudo"
@@ -1306,11 +1312,11 @@ msgstr "龜甲陣"
 
 #: simulation/templates/special/formations/testudo.xml:72
 msgid "Compact formation of Melee Infantry creating a shield shell."
-msgstr "近戰步兵的壓縮陣型，用於形成盾外殼。"
+msgstr "近戰步兵的壓縮陣型，用於形成盾外殼."
 
 #: simulation/templates/special/formations/wedge.xml:5
 msgid "Cavalry only, requires at least 6."
-msgstr "僅限騎兵，需要至少 6 名。"
+msgstr "僅限騎兵，需要至少 6 名."
 
 #: simulation/templates/special/formations/wedge.xml:16
 msgid "Wedge"
@@ -1318,7 +1324,7 @@ msgstr "錐形陣"
 
 #: simulation/templates/special/formations/wedge.xml:18
 msgid "Triangular Cavalry formation to break through enemy lines."
-msgstr "三角騎兵陣型，用於衝破敵人陣線。"
+msgstr "三角騎兵陣型，用於衝破敵人陣線."
 
 #: simulation/templates/special/spy.xml:16
 msgid "Spy"
@@ -1326,7 +1332,7 @@ msgstr "間諜"
 
 #: simulation/templates/template_formation.xml:15
 msgid "Requires at least 2 Soldiers or Siege Engines."
-msgstr "需要至少 2 名士兵或攻城武器。"
+msgstr "需要至少 2 名士兵或攻城武器."
 
 #: simulation/templates/template_gaia.xml:7
 msgid "Gaia"
@@ -1339,7 +1345,7 @@ msgstr "魚場"
 
 #: simulation/templates/template_gaia_fish.xml:10
 msgid "Catch fish for food."
-msgstr "捕魚以取得食物。"
+msgstr "捕魚以取得食物."
 
 #: simulation/templates/template_gaia_fruit.xml:8
 msgid "Fruit"
@@ -1347,7 +1353,7 @@ msgstr "果樹"
 
 #: simulation/templates/template_gaia_fruit.xml:9
 msgid "Pick fruit for food."
-msgstr "採集水果以取得食物。"
+msgstr "採集水果以取得食物."
 
 #: simulation/templates/template_gaia_ore.xml:8
 msgid "Metal Mine"
@@ -1355,7 +1361,7 @@ msgstr "金屬礦"
 
 #: simulation/templates/template_gaia_ore.xml:9
 msgid "Mine ore for metal."
-msgstr "採集礦石以取得金屬。"
+msgstr "採集礦石以取得金屬."
 
 #: simulation/templates/gaia/rock/aegean_cut.xml:8
 #: simulation/templates/gaia/rock/india_cut.xml:8
@@ -1368,7 +1374,7 @@ msgstr "採石場"
 
 #: simulation/templates/template_gaia_rock.xml:9
 msgid "Quarry rock for stone."
-msgstr "採石以取得石頭。"
+msgstr "採石以取得石頭."
 
 #: simulation/templates/template_gaia_ruins.xml:8
 msgid "Ruins"
@@ -1376,7 +1382,7 @@ msgstr "廢墟"
 
 #: simulation/templates/template_gaia_ruins.xml:9
 msgid "Demolish ruins for stone."
-msgstr "拆除廢墟以取得石頭。"
+msgstr "拆除廢墟以取得石頭."
 
 #: simulation/templates/template_gaia_treasure.xml:8
 msgid "Treasure"
@@ -1384,7 +1390,7 @@ msgstr "寶藏"
 
 #: simulation/templates/template_gaia_treasure.xml:9
 msgid "Collect treasures for resources."
-msgstr "收集寶藏以取得資源。"
+msgstr "收集寶藏以取得資源."
 
 #: simulation/templates/template_gaia_tree.xml:8
 msgid "Tree"
@@ -1392,7 +1398,7 @@ msgstr "樹木"
 
 #: simulation/templates/template_gaia_tree.xml:9
 msgid "Chop trees for wood."
-msgstr "砍樹以獲得木頭。"
+msgstr "砍樹以獲得木頭."
 
 #: simulation/templates/template_structure.xml:46
 msgid "Structure"
@@ -1409,4 +1415,4 @@ msgstr "牆"
 
 #: simulation/templates/template_wallset.xml:10
 msgid "Wall off an area."
-msgstr "用牆圍起一塊區域。"
+msgstr "用牆圍起一塊區域."

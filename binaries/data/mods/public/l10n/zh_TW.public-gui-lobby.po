@@ -3,27 +3,35 @@
 # This file is distributed under the same license as the 0 A.D. — Empires Ascendant
 # project.
 # Translators:
-# Cheng-Chia Tseng
-# CS Ferng
-# Hiunn-hué
-# Yuan Chang
-# 黃柏諺
-# JerryShen
-# Shoichi Chou
-# StarAtt
-# 張峻瑜
+# Cheng-Chia Tseng <pswo10680@gmail.com>, 2014
+# CS Ferng, 2018
+# Hiunn-hué <hiunnhue108@ymail.com>, 2018
+# Yuan Chang <daan0014119@gmail.com>, 2017
+# 黃柏諺 <s8321414@gmail.com>, 2014-2018
+# JerryShen <jerry82422@gmail.com>, 2018
+# Shoichi Chou <shoichi.chou@gmail.com>, 2018
+# StarAtt <tea55688@gmail.com>, 2021
+# Yuan Chang <daan0014119@gmail.com>, 2021-2023
+# Yuan Chang <daan0014119@gmail.com>, 2020-2021
+# 張峻瑜 <a728728728@gmail.com>, 2018
+# 黃柏諺 <s8321414@gmail.com>, 2021
+# DrBenson <Benson.Dr@GMail.com>, 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: 0 A.D.\n"
 "POT-Creation-Date: 2023-07-28 07:09+0000\n"
-"PO-Revision-Date: 2014-06-19 17:50+0000\n"
-"Last-Translator: Yuan Chang <daan0014119@gmail.com>, 2021-2023\n"
-"Language-Team: Chinese (Taiwan) (http://app.transifex.com/wildfire-games/0ad/language/zh_TW/)\n"
+"PO-Revision-Date: 2024-05-12 14:13+0800\n"
+"Last-Translator: DrBenson <Benson.Dr@GMail.com>\n"
+"Language-Team: Chinese (Taiwan) (http://app.transifex.com/wildfire-games/0ad/"
+"language/zh_TW/)\n"
+"Language: zh_TW\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.2\n"
+"X-Language: zh_TW\n"
+"X-Source-Language: en_US\n"
 
 #: gui/lobby/LeaderboardPage/LeaderboardPage.xml:(caption):28
 #: gui/lobby/ProfilePage/ProfilePage.xml:(caption):61
@@ -68,7 +76,7 @@ msgstr "主持遊戲"
 
 #: gui/lobby/LobbyPage/Buttons/JoinButton.js:42
 msgid "Your active mods do not match the mods of this game."
-msgstr "您啟用的模組與這場遊戲不相符。"
+msgstr "您啟用的模組與這場遊戲不相符."
 
 #: gui/lobby/LobbyPage/Buttons/JoinButton.js:44
 msgid "Do you want to switch to the mod selection page?"
@@ -80,15 +88,15 @@ msgstr "不相容的模組"
 
 #: gui/lobby/LobbyPage/Buttons/JoinButton.js:54
 msgid "The game has already started. Do you want to join as observer?"
-msgstr "遊戲已開始。您想要以觀戰者身分加入嗎？"
+msgstr "遊戲已開始. 您想要以觀戰者身分加入嗎？"
 
 #. Translation: Join the game currently selected in the list.
 #: gui/lobby/LobbyPage/Buttons/JoinButton.js:106
 msgid "Join Game"
 msgstr "加入遊戲"
 
-#: gui/lobby/LeaderboardPage/LeaderboardPage.xml:(caption):12
 #: gui/lobby/LobbyPage/Buttons/LeaderboardButton.js:9
+#: gui/lobby/LeaderboardPage/LeaderboardPage.xml:(caption):12
 msgid "Leaderboard"
 msgstr "排行榜"
 
@@ -110,39 +118,39 @@ msgstr "主選單"
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:32
 #, javascript-format
 msgid ""
-"The command '%(cmd)s' is not supported. Try %(help)s to get more information"
-" about the supported commands."
-msgstr "指令「%(cmd)s」不支援。嘗試用 %(help)s 來取得有關支援指令的更多資訊。"
+"The command '%(cmd)s' is not supported. Try %(help)s to get more information "
+"about the supported commands."
+msgstr "指令「%(cmd)s」不支援. 嘗試用 %(help)s 來取得有關支援指令的更多資訊."
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:45
 #, javascript-format
 msgid "The command '%(cmd)s' is restricted to moderators."
-msgstr "「%(cmd)s」僅供管理員使用。"
+msgstr "「%(cmd)s」僅供管理員使用."
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:67
 #, javascript-format
 msgid "The command '%(cmd)s' requires at least one argument."
-msgstr "指令「%(cmd)s」需要至少一個參數。"
+msgstr "指令「%(cmd)s」需要至少一個參數."
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:88
 msgid "Set your state to 'Away'."
-msgstr "設定您的狀態為「暫離」。"
+msgstr "設定您的狀態為「暫離」."
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:95
 msgid "Set your state to 'Online'."
-msgstr "設定您的狀態為「上線」。"
+msgstr "設定您的狀態為「上線」."
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:102
 msgid "Kick a specified user from the lobby. Usage: /kick nick reason"
-msgstr "將特定使用者踢出大廳。用法：/kick 暱稱 理由"
+msgstr "將特定使用者踢出大廳. 用法：/kick 暱稱 理由"
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:114
 msgid "Ban a specified user from the lobby. Usage: /ban nick reason"
-msgstr "禁止特定使用者進入大廳。用法：/ban 暱稱 理由"
+msgstr "禁止特定使用者進入大廳. 用法：/ban 暱稱 理由"
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:126
 msgid "Show this help."
-msgstr "顯示此說明。"
+msgstr "顯示此說明."
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:129
 msgid "Chat commands:"
@@ -156,7 +164,7 @@ msgstr "%(command)s - %(description)s"
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:147
 msgid "Send a chat message about yourself. Example: /me goes swimming."
-msgstr "傳送關於您自己的聊天訊息。範例：/me 要去游泳。"
+msgstr "傳送關於您自己的聊天訊息. 範例：/me 要去游泳."
 
 #. Translation: Chat command
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:150
@@ -165,9 +173,9 @@ msgstr "/me"
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:154
 msgid ""
-"Send text as a chat message (even if it starts with slash). Example: /say "
-"/help is a great command."
-msgstr "傳送文字聊天訊息（即使其以斜線開頭）。範例：/say /help 是個好指令。"
+"Send text as a chat message (even if it starts with slash). Example: /say /"
+"help is a great command."
+msgstr "傳送文字聊天訊息（即使其以斜線開頭）. 範例：/say /help 是個好指令."
 
 #. Translation: Chat command
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:157
@@ -176,7 +184,7 @@ msgstr "/say"
 
 #: gui/lobby/LobbyPage/Chat/ChatCommandHandler.js:161
 msgid "Clear all chat scrollback."
-msgstr "清除所有聊天紀錄。"
+msgstr "清除所有聊天紀錄."
 
 #. Translation: Chat message issued using the ‘/me’ command.
 #: gui/lobby/LobbyPage/Chat/ChatMessages/ChatMessageFormatMe.js:24
@@ -210,53 +218,53 @@ msgstr "傳送"
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:47
 #, javascript-format
 msgid "%(nick)s has joined."
-msgstr "%(nick)s 已加入。"
+msgstr "%(nick)s 已加入."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:48
 #, javascript-format
 msgid "%(nick)s has left."
-msgstr "%(nick)s 已離開。"
+msgstr "%(nick)s 已離開."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:70
 #, javascript-format
 msgid "%(oldnick)s is now known as %(newnick)s."
-msgstr "%(oldnick)s 現在改稱作 %(newnick)s。"
+msgstr "%(oldnick)s 現在改稱作 %(newnick)s."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:107
 msgid "You have been muted."
-msgstr "您已被靜音。"
+msgstr "您已被靜音."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:108
 #, javascript-format
 msgid "%(nick)s has been muted."
-msgstr "%(nick)s 已被靜音。"
+msgstr "%(nick)s 已被靜音."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:112
 msgid "You are now a moderator."
-msgstr "您現在是管理員。"
+msgstr "您現在是管理員."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:113
 #, javascript-format
 msgid "%(nick)s is now a moderator."
-msgstr "%(nick)s 現在是管理員。"
+msgstr "%(nick)s 現在是管理員."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:118
 msgid "You have been unmuted."
-msgstr "您已被解除靜音。"
+msgstr "您已被解除靜音."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:119
 #, javascript-format
 msgid "%(nick)s has been unmuted."
-msgstr "%(nick)s 已被解除靜音。"
+msgstr "%(nick)s 已被解除靜音."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:124
 msgid "You are not a moderator anymore."
-msgstr "您不再是管理員了。"
+msgstr "您不再是管理員了."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:125
 #, javascript-format
 msgid "%(nick)s is not a moderator anymore."
-msgstr "%(nick)s 不再是管理員了。"
+msgstr "%(nick)s 不再是管理員了."
 
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:152
 #, javascript-format
@@ -266,7 +274,7 @@ msgstr "%(nick)s 將大廳主題更改為："
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageEvents.js:153
 #, javascript-format
 msgid "%(nick)s deleted the lobby subject."
-msgstr "%(nick)s 刪除了大廳主題。"
+msgstr "%(nick)s 刪除了大廳主題."
 
 #. Translation: Chat status message
 #: gui/lobby/LobbyPage/Chat/StatusMessages/StatusMessageFormat.js:25
@@ -276,11 +284,11 @@ msgstr "== %(message)s"
 
 #: gui/lobby/LobbyPage/Chat/SystemMessages/SystemMessageEvents.js:55
 msgid "Connected."
-msgstr "已連線。"
+msgstr "已連線."
 
 #: gui/lobby/LobbyPage/Chat/SystemMessages/SystemMessageEvents.js:56
 msgid "Disconnected."
-msgstr "連線中斷。"
+msgstr "連線中斷."
 
 #. Translation: Caption for system notifications shown in the chat panel
 #: gui/lobby/LobbyPage/Chat/SystemMessages/SystemMessageFormat.js:25
@@ -298,9 +306,7 @@ msgstr "=== %(system)s %(message)s"
 msgid "%(time)s %(message)s"
 msgstr "%(time)s %(message)s"
 
-#. Translation: Time prefix as shown in the multiplayer lobby (when you enable
-#. it in the
-#. options page).
+#. Translation: Time prefix as shown in the multiplayer lobby (when you enableit in theoptions page).
 #: gui/lobby/LobbyPage/Chat/TimestampWrapper.js:28
 #, javascript-format
 msgid "\\[%(time)s]"
@@ -360,7 +366,9 @@ msgstr "無盡遊戲"
 msgid ""
 "You have some incompatible mods:\n"
 "%(details)s"
-msgstr "您有不相容的模組：\n%(details)s"
+msgstr ""
+"您有不相容的模組：\n"
+"%(details)s"
 
 #: gui/lobby/LobbyPage/GameDetails.js:123
 msgid "This mod does not affect MP compatibility"
@@ -477,12 +485,12 @@ msgstr "您已被大廳封禁！"
 #: gui/lobby/LobbyPage/KickStrings.js:43
 #, javascript-format
 msgid "%(nick)s has been kicked from the lobby."
-msgstr "%(nick)s 已被踢出大廳。"
+msgstr "%(nick)s 已被踢出大廳."
 
 #: gui/lobby/LobbyPage/KickStrings.js:44
 #, javascript-format
 msgid "%(nick)s has been banned from the lobby."
-msgstr "%(nick)s 已被大廳封禁。"
+msgstr "%(nick)s 已被大廳封禁."
 
 #: gui/lobby/LobbyPage/KickStrings.js:49
 #, javascript-format
@@ -588,7 +596,7 @@ msgstr "勝率："
 #: gui/lobby/ProfilePage/ProfilePage.js:86
 #, javascript-format
 msgid "Player \"%(nick)s\" not found."
-msgstr "找不到玩家「%(nick)s」。"
+msgstr "找不到玩家「%(nick)s」."
 
 #: gui/lobby/ProfilePage/ProfilePage.xml:(caption):16
 msgid "Enter playername:"
@@ -600,7 +608,7 @@ msgstr "查看檔案"
 
 #: gui/lobby/ProfilePage/ProfilePage.xml:(caption):55
 msgid "Please enter a player name."
-msgstr "請輸入玩家名稱。"
+msgstr "請輸入玩家名稱."
 
 #: gui/prelobby/common/credentials/confirmpassword.xml:(caption):4
 msgid "Password again:"
@@ -656,7 +664,8 @@ msgstr "記住密碼"
 msgid ""
 "Unknown error. This usually occurs because the same IP address is not "
 "allowed to register more than one account within one hour."
-msgstr "未知的錯誤。這通常是因同一個 IP 不允許在一個小時內註冊多於一個帳號所造成。"
+msgstr ""
+"未知的錯誤. 這通常是因同一個 IP 不允許在一個小時內註冊多於一個帳號所造成."
 
 #: gui/prelobby/common/feedback/feedback.xml:(caption):10
 #: gui/prelobby/entrance/entrance.xml:(caption):30
@@ -679,7 +688,8 @@ msgstr "[font=\"sans-bold-14\"]文件日期：[/font]2023-07-27"
 msgid ""
 "[font=\"sans-bold-16\"]Personal data processed by Wildfire Games and "
 "purposes of processing:[/font]"
-msgstr "[font=\"sans-bold-16\"]Wildfire Games 處理的個人資料及處理目的：[/font]"
+msgstr ""
+"[font=\"sans-bold-16\"]Wildfire Games 處理的個人資料及處理目的：[/font]"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:6
 msgid "[font=\"sans-bold-14\"]1. Player name[/font]"
@@ -689,7 +699,7 @@ msgstr "[font=\"sans-bold-14\"]1. 玩家名稱[/font]"
 msgid ""
 "The player is identified by a name that the player chooses at the time of "
 "registration."
-msgstr "玩家由其在註冊時所選擇的名稱識別。"
+msgstr "玩家由其在註冊時所選擇的名稱識別."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:8
 msgid ""
@@ -697,16 +707,21 @@ msgid ""
 "players, moderators and developers to identify players they met before, "
 "communicate about the game, coordinate matches and enables moderators to "
 "enforce the Terms of Use."
-msgstr "擁有唯一玩家名稱是取得積分的必要條件，讓玩家、管理員與開發者們得以識別他們遇過的玩家，互相交流、協調對戰對並讓管理員能夠執行使用條款。"
+msgstr ""
+"擁有唯一玩家名稱是取得積分的必要條件，讓玩家、管理員與開發者們得以識別他們遇"
+"過的玩家，互相交流、協調對戰對並讓管理員能夠執行使用條款."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:9
 msgid ""
 "The player name serves as a pseudonym. The identity (natural person) of "
-"players is not known to Wildfire Games, except where personally identifiable"
-" information (such as the real name) was disclosed on the Lobby Chat, other "
+"players is not known to Wildfire Games, except where personally identifiable "
+"information (such as the real name) was disclosed on the Lobby Chat, other "
 "services of Wildfire Games or elsewhere in the public, or when the IP "
 "address is used to bring criminal proceedings."
-msgstr "玩家名稱是假名，玩家身分（自然人）不會使 Wildfire Games 得知，除非有人在大廳聊天、其他 Wildfire Games 服務或別處公開場合透露個人識別資訊（如真實姓名），抑或 IP 位置被用於刑事訴訟時。"
+msgstr ""
+"玩家名稱是假名，玩家身分（自然人）不會使 Wildfire Games 得知，除非有人在大廳"
+"聊天、其他 Wildfire Games 服務或別處公開場合透露個人識別資訊（如真實姓名），"
+"抑或 IP 位置被用於刑事訴訟時."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:11
 msgid "[font=\"sans-bold-14\"]2. Password[/font]"
@@ -716,14 +731,16 @@ msgstr "[font=\"sans-bold-14\"]2. 密碼[/font]"
 msgid ""
 "A player is authenticated using a password that the player chooses at the "
 "time of registration."
-msgstr "玩家以註冊時選擇的密碼驗證身分。"
+msgstr "玩家以註冊時選擇的密碼驗證身分."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:13
 msgid ""
 "Wildfire Games only receives an encrypted version of the password, so that "
 "the password chosen by the user is not revealed to Wildfire Games or others "
 "in case of a breach."
-msgstr "Wildfire Games 僅會收到加密版本的密碼，使用者的密碼不會對 Wildfire Games 或其他人顯示以免侵害。"
+msgstr ""
+"Wildfire Games 僅會收到加密版本的密碼，使用者的密碼不會對 Wildfire Games 或其"
+"他人顯示以免侵害."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:15
 msgid "[font=\"sans-bold-14\"]3. IP address[/font]"
@@ -731,36 +748,42 @@ msgstr "[font=\"sans-bold-14\"]3. IP 位址[/font]"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:16
 msgid ""
-"When a player hosts a match in the Multiplayer Lobby, the IP address of that"
-" player is sent to every player who is online, so that other players can "
-"join that game."
-msgstr "在多人遊戲大廳主持對戰時，該玩家的 IP 位址會傳送給每個上線的玩家，如此其他玩家才能加入遊戲。"
+"When a player hosts a match in the Multiplayer Lobby, the IP address of that "
+"player is sent to every player who is online, so that other players can join "
+"that game."
+msgstr ""
+"在多人遊戲大廳主持對戰時，該玩家的 IP 位址會傳送給每個上線的玩家，如此其他玩"
+"家才能加入遊戲."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:17
 msgid ""
 "Wildfire Games stores players IP addresses and may infer publicly available "
 "geolocation and internet service provider data (for example \"geolite2\") "
 "from the IP address in order to:"
-msgstr "Wildfire Games 儲存玩家的 IP 位址且可能會由其推斷公開可用的地理位置定位與網路服務提供者資料（如：\"geolite2\"）以便："
+msgstr ""
+"Wildfire Games 儲存玩家的 IP 位址且可能會由其推斷公開可用的地理位置定位與網路"
+"服務提供者資料（如：\"geolite2\"）以便："
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:18
 msgid ""
 " 1. Enforce the Terms of Use where persons create multiple accounts without "
 "Wildfire Games permission, in particular after having been banned from the "
 "service for violating the Terms of Use."
-msgstr " 1. 防止在未經 Wildfire Games 的同意下建立多個使用者帳號，特別是在違反使用條款而被禁止服務之後。"
+msgstr ""
+" 1. 防止在未經 Wildfire Games 的同意下建立多個使用者帳號，特別是在違反使用條"
+"款而被禁止服務之後."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:19
 msgid ""
 "    IP addresses will not be saved for longer than three years for this "
 "purpose."
-msgstr "    IP 位址在此用途下不會被儲存超過三年。"
+msgstr "    IP 位址在此用途下不會被儲存超過三年."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:20
 msgid ""
 " 2. Make it possible to bring criminal proceedings in case of a cyberattack "
 "(EU Court of Justice Press Release No 112/16)."
-msgstr " 2. 如果發生網路攻擊，可以提出刑事訴訟（歐盟法院新聞稿第 112/16 號）。"
+msgstr " 2. 如果發生網路攻擊，可以提出刑事訴訟（歐盟法院新聞稿第 112/16 號）."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:21
 msgid ""
@@ -768,7 +791,9 @@ msgid ""
 "particular not for marketing, not otherwise disclose IP addresses to the "
 "public or third parties and erase IP addresses if they are not relevant for "
 "the stated purposes anymore."
-msgstr "Wildfire Games 不會將 IP 位址紀錄用於其他用途，特別不會用於行銷，不會向公眾或第三方透露且若 IP 位址紀錄不再與上述目的相關會立刻刪除。"
+msgstr ""
+"Wildfire Games 不會將 IP 位址紀錄用於其他用途，特別不會用於行銷，不會向公眾或"
+"第三方透露且若 IP 位址紀錄不再與上述目的相關會立刻刪除."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:23
 msgid "[font=\"sans-bold-14\"]4. Online presence[/font]"
@@ -778,7 +803,7 @@ msgstr "[font=\"sans-bold-14\"]4. 線上狀態[/font]"
 msgid ""
 "Which players are currently connected to the Multiplayer Lobby and which "
 "match they joined is shown to all online players."
-msgstr "目前連線至多人遊戲大廳的玩家及他們加入的對戰會對所有上線玩家顯示。"
+msgstr "目前連線至多人遊戲大廳的玩家及他們加入的對戰會對所有上線玩家顯示."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:26
 msgid "[font=\"sans-bold-14\"]5. Chat messages[/font]"
@@ -788,7 +813,7 @@ msgstr "[font=\"sans-bold-14\"]5. 聊天訊息[/font]"
 msgid ""
 "The Multiplayer Lobby features a public chat room that enables players to "
 "discuss the game and organize multiplayer matches."
-msgstr "多人遊戲大廳的公開聊天室讓玩家可以討論遊戲並組織多人對戰。"
+msgstr "多人遊戲大廳的公開聊天室讓玩家可以討論遊戲並組織多人對戰."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:28
 msgid ""
@@ -798,20 +823,22 @@ msgstr "Wildfire Games 為下述目的儲存公開聊天訊息與線上狀態紀
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:29
 msgid " 1. Moderators may screen chat messages to enforce the Terms of Use."
-msgstr " 1. 管理員可以依使用條款檢查聊天訊息。"
+msgstr " 1. 管理員可以依使用條款檢查聊天訊息."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:30
 msgid ""
 " 2. Wildfire Games may address or resolve bug reports, balancing issues or "
 "feature proposals indicated by players in the chat room."
-msgstr " 2. Wildfire Games 可以處理或解決玩家的漏洞報告、平衡性問題或功能提案。"
+msgstr " 2. Wildfire Games 可以處理或解決玩家的漏洞報告、平衡性問題或功能提案."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:31
 msgid ""
-" 3. Wildfire Games may assess trends amongst discussed topics, the growth of"
-" the active community and use these indicators as feedback to assess, "
-"improve and direct development of the game and the service."
-msgstr " 3. Wildfire Games 可以評估討論主題的湖流、活躍社群的增長並將這些指標用作回饋以評估、改進與引導遊戲與服務開發。"
+" 3. Wildfire Games may assess trends amongst discussed topics, the growth of "
+"the active community and use these indicators as feedback to assess, improve "
+"and direct development of the game and the service."
+msgstr ""
+" 3. Wildfire Games 可以評估討論主題的湖流、活躍社群的增長並將這些指標用作回饋"
+"以評估、改進與引導遊戲與服務開發."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:33
 msgid "[font=\"sans-bold-14\"]6. Match statistics[/font]"
@@ -819,15 +846,17 @@ msgstr "[font=\"sans-bold-14\"]6. 對戰統計[/font]"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:34
 msgid ""
-"Players can gain a rating on the Multiplayer Lobby that reflects their skill"
-" at the game."
-msgstr "玩家可以在多人遊戲大廳獲得反映遊戲技巧的積分。"
+"Players can gain a rating on the Multiplayer Lobby that reflects their skill "
+"at the game."
+msgstr "玩家可以在多人遊戲大廳獲得反映遊戲技巧的積分."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:35
 msgid ""
 "The rating of all players is published by Wildfire Games and allows players "
 "to focus on competitive or balanced matchmaking if they wish to."
-msgstr "所有玩家的積分都由 Wildfire Games 發布，讓玩家們可以專注於競技性或平衡的對戰安排。"
+msgstr ""
+"所有玩家的積分都由 Wildfire Games 發布，讓玩家們可以專注於競技性或平衡的對戰"
+"安排."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:36
 msgid ""
@@ -835,7 +864,10 @@ msgid ""
 "number of units trained, resources gathered and the winner of the match) to "
 "Wildfire Games, so that Wildfire Games can adapt the players ratings based "
 "on these statistics."
-msgstr "在積分對戰中，玩家會將與遊戲相關的資料（如訓練的單位數量、資源採集量與獲勝者）傳送到 Wildfire Games，這樣 Wildfire Games 就能按照這些統計數據調整玩家積分。"
+msgstr ""
+"在積分對戰中，玩家會將與遊戲相關的資料（如訓練的單位數量、資源採集量與獲勝"
+"者）傳送到 Wildfire Games，這樣 Wildfire Games 就能按照這些統計數據調整玩家積"
+"分."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:37
 msgid "Wildfire Games stores match statistics to:"
@@ -845,14 +877,16 @@ msgstr "Wildfire Games 會儲存對戰統計數據以："
 msgid ""
 " 1. Verify the accuracy of the rating score and identify and enforce Terms "
 "of Use violations relating to that."
-msgstr " 1. 驗證評分的準確性及識別並執行與此相關的服務條款。"
+msgstr " 1. 驗證評分的準確性及識別並執行與此相關的服務條款."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:39
 msgid ""
 " 2. Compute and publish community statistics to improve the game and the "
-"service, for example to improve the balancing of the game or to make certain"
-" aspects of the game more appealing."
-msgstr " 2. 計算並發佈社群統計數據以改進遊戲與服務，例如改善遊戲平衡性或讓遊戲的某些方面更具吸引力。"
+"service, for example to improve the balancing of the game or to make certain "
+"aspects of the game more appealing."
+msgstr ""
+" 2. 計算並發佈社群統計數據以改進遊戲與服務，例如改善遊戲平衡性或讓遊戲的某些"
+"方面更具吸引力."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:41
 msgid "[font=\"sans-bold-14\"]Security of processing:[/font]"
@@ -861,26 +895,28 @@ msgstr "[font=\"sans-bold-14\"]處理安全：[/font]"
 #: gui/prelobby/common/terms/Privacy_Policy.txt:42
 msgid ""
 "The transmission of personal data is secured using TLS encryption (GDPR 32)."
-msgstr "個人數據傳輸使用 TLS 加密保護 (GDPR 32)。"
+msgstr "個人數據傳輸使用 TLS 加密保護 (GDPR 32)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:43
 msgid ""
 "Personal data is protected against unintentional loss in encrypted backups "
 "for additional time (GDPR 30.1.g, GDPR 32)."
-msgstr "個人資料會加密備份保護以防止意外遺失 (GDPR 30.1.g, GDPR 32)。"
+msgstr "個人資料會加密備份保護以防止意外遺失 (GDPR 30.1.g, GDPR 32)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:45
 msgid ""
 "All personal data that Wildfire Games processes is obtained from the user "
 "(GDPR 14)."
-msgstr "Wildfire Games 處理的所有個人資料都來自使用者 (GDPR 14)。"
+msgstr "Wildfire Games 處理的所有個人資料都來自使用者 (GDPR 14)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:46
 msgid ""
 "Wildfire Games reserves the right to delete any service data (including "
 "personal data) at any time, except where a user has objected to the erasure "
 "of his or her personal data for performance of a legal claim."
-msgstr "Wildfire Games 保留隨時刪除任何服務資料（包含個人資料）的權利，除非使用者以法律聲明反對刪除其表現資料。"
+msgstr ""
+"Wildfire Games 保留隨時刪除任何服務資料（包含個人資料）的權利，除非使用者以法"
+"律聲明反對刪除其表現資料."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:48
 msgid "[font=\"sans-bold-16\"]Legal basis for the processing:[/font]"
@@ -888,9 +924,9 @@ msgstr "[font=\"sans-bold-16\"]處理的法律依據：[/font]"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:49
 msgid ""
-"1. The processing is necessary for the performance of the service defined in"
-" the terms (GDPR 6.1.b)."
-msgstr "1. 處理對條款中定義的服務之表現為必要 (GDPR 6.1.b)。"
+"1. The processing is necessary for the performance of the service defined in "
+"the terms (GDPR 6.1.b)."
+msgstr "1. 處理對條款中定義的服務之表現為必要 (GDPR 6.1.b)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:50
 msgid ""
@@ -898,14 +934,18 @@ msgid ""
 "Lobby, in the development and improvement of 0 A.D. and the Multiplayer "
 "Lobby, in enforcing the Terms of Use and in the protection against "
 "cyberattacks (GDPR 6.1.f)."
-msgstr "2. Wildfire Games 在提供多人遊戲大廳、開發與改進 0 A.D. 及在多人遊戲大廳中執行使用條款與防範網路攻擊方面有合法權益 (GDPR 6.1.f)。"
+msgstr ""
+"2. Wildfire Games 在提供多人遊戲大廳、開發與改進 0 A.D. 及在多人遊戲大廳中執"
+"行使用條款與防範網路攻擊方面有合法權益 (GDPR 6.1.f)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:51
 msgid ""
 "3. Wildfire Games does not process any further data for the Multiplayer "
-"Lobby and does not ask for consent to process data (GDPR 6.1.a, GDPR 7, GDPR"
-" 8, GDPR 13.2.c)."
-msgstr "3. Wildfire Games 不會為多人遊戲大廳處理任何額外資料，也不會為處理資料詢求同意 (GDPR 6.1.a, GDPR 7, GDPR 8, GDPR 13.2.c)。"
+"Lobby and does not ask for consent to process data (GDPR 6.1.a, GDPR 7, GDPR "
+"8, GDPR 13.2.c)."
+msgstr ""
+"3. Wildfire Games 不會為多人遊戲大廳處理任何額外資料，也不會為處理資料詢求同"
+"意 (GDPR 6.1.a, GDPR 7, GDPR 8, GDPR 13.2.c)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:53
 msgid "[font=\"sans-bold-16\"]User rights:[/font]"
@@ -913,58 +953,64 @@ msgstr "[font=\"sans-bold-16\"]使用者權利：[/font]"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:54
 msgid ""
-"1. Contact Wildfire Games, by sending an email to webmaster at wildfiregames"
-" dot com (GDPR 13.1.a, GDPR 13.1.b)."
-msgstr "1. 傳送電子郵件給 wildfiregames dot com 的網站管理員以聯絡 Wildfire Games (GDPR 13.1.a, GDPR 13.1.b)。"
+"1. Contact Wildfire Games, by sending an email to webmaster at wildfiregames "
+"dot com (GDPR 13.1.a, GDPR 13.1.b)."
+msgstr ""
+"1. 傳送電子郵件給 wildfiregames dot com 的網站管理員以聯絡 Wildfire Games "
+"(GDPR 13.1.a, GDPR 13.1.b)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:55
 msgid "   To exercise any user right, please refer to this contact."
-msgstr "    要行使任何使用者權利，請參照此聯絡方式。"
+msgstr "    要行使任何使用者權利，請參照此聯絡方式."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:56
 msgid "2. Right of access to personal data concerning him or her (GDPR 15)."
-msgstr "2. 存取與他 / 她相關之個人資料之權利 (GDPR 15)。"
+msgstr "2. 存取與他 / 她相關之個人資料之權利 (GDPR 15)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:57
 msgid ""
 "3. Right to obtain personal data in a machine-readable format (GDPR 20)."
-msgstr "3. 以機器可讀格式取得個人資料之權利 (GDPR 20)。"
+msgstr "3. 以機器可讀格式取得個人資料之權利 (GDPR 20)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:58
 msgid "4. Right to rectification of inaccurate personal data (GDPR 16)."
-msgstr "4. 更正失實個人資料之權利 (GDPR 16)。"
+msgstr "4. 更正失實個人資料之權利 (GDPR 16)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:59
 msgid ""
 "5. Right to erasure of personal data where it is not relevant to the stated "
-"purposes, if the data was processed unlawfully or if the user objects to the"
-" processing and has overriding legitimate grounds (GDPR 17)."
-msgstr "5. 若資料被違法處理或使用者反對處理並有壓倒性合法理由的狀況下，抹除無關聲明用途個人資料之權利 (GDPR 17)。"
+"purposes, if the data was processed unlawfully or if the user objects to the "
+"processing and has overriding legitimate grounds (GDPR 17)."
+msgstr ""
+"5. 若資料被違法處理或使用者反對處理並有壓倒性合法理由的狀況下，抹除無關聲明用"
+"途個人資料之權利 (GDPR 17)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:60
 msgid ""
 "6. Right to restriction of personal data processing where the accuracy of "
 "the data is contested by the user, if the data was processed unlawfully or "
 "if the user requires the data for a legal claim (GDPR 18)."
-msgstr "6. 若資料準確性因違法處理或使用者需要資料作法律聲明而受使用者質疑，限制個人資料處理之權利 (GDPR 18)。"
+msgstr ""
+"6. 若資料準確性因違法處理或使用者需要資料作法律聲明而受使用者質疑，限制個人資"
+"料處理之權利 (GDPR 18)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:61
 msgid ""
 "7. Right to object to the processing of personal data concerning him or her "
 "on grounds relating to their particular situation (GDPR 21)."
-msgstr "7. 依據其特殊情況反對處理關於他或她個人資料之權利 (GDPR 21)。"
+msgstr "7. 依據其特殊情況反對處理關於他或她個人資料之權利 (GDPR 21)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:62
 msgid ""
 "8. Right to lodge a complaint with a supervisory authority (GDPR 13.2.d, "
 "GDPR 77)."
-msgstr "8. 向監管機關投訴之權利 (GDPR 13.2.d, GDPR 77)。"
+msgstr "8. 向監管機關投訴之權利 (GDPR 13.2.d, GDPR 77)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:63
 msgid ""
 "Requests that are manifestly unfounded or excessive are not responded to or "
 "may be charged (GDPR 12.4, GDPR 12.5)."
-msgstr "明顯無根據或過多的請求將不會回覆或可能需收費 (GDPR 12.4, GDPR 12.5)。"
+msgstr "明顯無根據或過多的請求將不會回覆或可能需收費 (GDPR 12.4, GDPR 12.5)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:65
 msgid "[font=\"sans-bold-16\"]Wildfire Games obligations:[/font]"
@@ -974,55 +1020,68 @@ msgstr "[font=\"sans-bold-16\"]Wildfire Games 義務：[/font]"
 msgid ""
 " 1. Wildfire Games demonstrates compliance with GDPR (GDPR 5.2 "
 "'accountability')."
-msgstr " 1. Wildfire Games 表示遵守 GDPR (GDPR 5.2 'accountability')。"
+msgstr " 1. Wildfire Games 表示遵守 GDPR (GDPR 5.2 'accountability')."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:67
 msgid ""
 " 2. Wildfire Games documents their processing activities appropriately, in "
 "particular the categories of processed personal data and security measures "
 "to protect it (GDPR 30)."
-msgstr " 2. Wildfire Games 會適當記錄其處理活動，特別是處理過的個人資料類別及保護它的安全措施 (GDPR 30)。"
+msgstr ""
+" 2. Wildfire Games 會適當記錄其處理活動，特別是處理過的個人資料類別及保護它的"
+"安全措施 (GDPR 30)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:68
 msgid ""
 " 3. Wildfire Games processes personal data lawfully, fairly and "
 "transparently (GDPR 5.1.a, GDPR 12.1)."
-msgstr " 3. Wildfire Games 會合法、公平、透明地處理個人資料 (GDPR 5.1.a, GDPR 12.1)。"
+msgstr ""
+" 3. Wildfire Games 會合法、公平、透明地處理個人資料 (GDPR 5.1.a, GDPR 12.1)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:69
 msgid ""
 " 4. Wildfire Games informs users of the purposes, legal grounds, legitimate "
 "interests and retention periods of personal data processing at the time it "
 "is processed, recipients of personal data and where applicable, transfer of "
-"personal data to third countries and automated decision-making (GDPR "
+"personal data to third countries and automated decision-making (GDPR 13.1.c-"
+"f, GDPR 13.2.a, GDPR 13.2.e-f, GDPR 15.1, GDPR 15.4)."
+msgstr ""
+" 4. Wildfire Games 會在處理個人資料時告知使用者處理目的、法律依據、合法權益與"
+"保留期限、個人資料的接收者與適用對象、至第三地的個人資料傳輸與自動決策 (GDPR "
 "13.1.c-f, GDPR 13.2.a, GDPR 13.2.e-f, GDPR 15.1, GDPR 15.4)."
-msgstr " 4. Wildfire Games 會在處理個人資料時告知使用者處理目的、法律依據、合法權益與保留期限、個人資料的接收者與適用對象、至第三地的個人資料傳輸與自動決策 (GDPR 13.1.c-f, GDPR 13.2.a, GDPR 13.2.e-f, GDPR 15.1, GDPR 15.4)。"
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:70
 msgid ""
 " 5. Wildfire Games does not processes personal data for purposes other than "
 "the specified ones (GDPR 5.1.b, 'purpose limitation', GDPR 13.3)."
-msgstr " 5. Wildfire Games 不會為明定外之目的處理個人資料 (GDPR 5.1.b, 'purpose limitation', GDPR 13.3)。"
+msgstr ""
+" 5. Wildfire Games 不會為明定外之目的處理個人資料 (GDPR 5.1.b, 'purpose "
+"limitation', GDPR 13.3)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:71
 msgid ""
-" 6. Wildfire Games does not process personal data that is not needed for the"
-" specified purposes (GDPR 5.1.c, 'data minimization')."
-msgstr " 6. Wildfire Games 不會處理明定用途不需要的個人資料 (GDPR 5.1.c, 'data minimisation')。"
+" 6. Wildfire Games does not process personal data that is not needed for the "
+"specified purposes (GDPR 5.1.c, 'data minimization')."
+msgstr ""
+" 6. Wildfire Games 不會處理明定用途不需要的個人資料 (GDPR 5.1.c, 'data "
+"minimisation')."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:72
 msgid ""
-" 7. Wildfire Games uses a storage form that does not allow identification of"
-" natural persons for longer than necessary (GDPR 5.1.e 'storage "
-"limitation')."
-msgstr " 7. Wildfire Games 使用不超過辨識自然人必要時間的儲存形式 (GDPR 5.1.e 'storage limitation')。"
+" 7. Wildfire Games uses a storage form that does not allow identification of "
+"natural persons for longer than necessary (GDPR 5.1.e 'storage limitation')."
+msgstr ""
+" 7. Wildfire Games 使用不超過辨識自然人必要時間的儲存形式 (GDPR 5.1.e "
+"'storage limitation')."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:73
 msgid ""
 " 8. Wildfire Games secures personal data processing to prevent unauthorised "
 "or unlawful processing and accidental loss (GDPR 5.1.f. 'integrity and "
 "confidentiality')."
-msgstr " 8. Wildfire Games 會保護個人資料處理以防止未授權或違法處理及意外遺失 (GDPR 5.1.f. 'integrity and confidentiality')。"
+msgstr ""
+" 8. Wildfire Games 會保護個人資料處理以防止未授權或違法處理及意外遺失 (GDPR "
+"5.1.f. 'integrity and confidentiality')."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:74
 msgid ""
@@ -1030,20 +1089,27 @@ msgid ""
 "erase personal data and the right to restrict, to withdraw consent to, to "
 "object to personal data processing and to complain at a supervisory "
 "authority (GDPR 13.2.b, GDPR 13.2.c, GDPR 13.2.d)."
-msgstr " 9. Wildfire Games 告知使用者他們存取、更正、抹除個人資料之權利及限制、撤銷同意、反對個人資料處理與向監管機關投訴之權利 (GDPR 13.2.b, GDPR 13.2.c, GDPR 13.2.d)。"
+msgstr ""
+" 9. Wildfire Games 告知使用者他們存取、更正、抹除個人資料之權利及限制、撤銷同"
+"意、反對個人資料處理與向監管機關投訴之權利 (GDPR 13.2.b, GDPR 13.2.c, GDPR "
+"13.2.d)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:75
 msgid ""
 "10. Wildfire Games facilitates the exercise of user rights where possible "
 "(GDPR 12.2), without undue delay (GDPR 12.3)."
-msgstr "10. Wildfire Games 會盡可能促進使用者權利的行使 (GDPR 12.2)，而不過度延遲 (GDPR 12.3)。"
+msgstr ""
+"10. Wildfire Games 會盡可能促進使用者權利的行使 (GDPR 12.2)，而不過度延遲 "
+"(GDPR 12.3)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:76
 msgid ""
 "11. Wildfire Games informs the users that to exercise their rights, users "
 "might need to provide additional information to identify the natural person "
 "or the data (GDPR 12.6, GDPR 13.2.e)."
-msgstr "11. Wildfire Games 告知使用者：要行使他們的權利，使用者可能需要提供額外的資訊以識別自然人或資料 (GDPR 12.6, GDPR 13.2.e)。"
+msgstr ""
+"11. Wildfire Games 告知使用者：要行使他們的權利，使用者可能需要提供額外的資訊"
+"以識別自然人或資料 (GDPR 12.6, GDPR 13.2.e)."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:77
 msgid ""
@@ -1051,7 +1117,10 @@ msgid ""
 "under the age of 13 (Children's Online Privacy Protection Act). If you "
 "believe Wildfire Games received any personal data from or about a child "
 "under 13, please contact Wildfire Games."
-msgstr "12. Wildfire Games 不會蓄意收集 13 歲以下兒童的個人資料（兒童線上隱私保護法）。若您認為 Wildfire Games 可能接收來自或關於任何 13 歲以下兒童的個人資料，請聯絡 Wildfire Games。"
+msgstr ""
+"12. Wildfire Games 不會蓄意收集 13 歲以下兒童的個人資料（兒童線上隱私保護"
+"法）. 若您認為 Wildfire Games 可能接收來自或關於任何 13 歲以下兒童的個人資"
+"料，請聯絡 Wildfire Games."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:78
 msgid ""
@@ -1062,13 +1131,19 @@ msgid ""
 "interests do not override Wildfire Games legitimate interests, and that "
 "Wildfire Games is not using personal data in intrusive ways unless there is "
 "a very good reason to."
-msgstr "13. 若 Wildfire Games 根據合法權益處理敏感性個人資料，Wildfire Games 會考慮執行、記錄及定期審核合法權益評估與資料保護影響評估 (GDPR 35) 以確保個人權益不會超過 Wildfire Games 的合法權益，且除非有充分理由 Wildfire Games 不會以侵擾性的方式使用個人資料。"
+msgstr ""
+"13. 若 Wildfire Games 根據合法權益處理敏感性個人資料，Wildfire Games 會考慮執"
+"行、記錄及定期審核合法權益評估與資料保護影響評估 (GDPR 35) 以確保個人權益不會"
+"超過 Wildfire Games 的合法權益，且除非有充分理由 Wildfire Games 不會以侵擾性"
+"的方式使用個人資料."
 
 #: gui/prelobby/common/terms/Privacy_Policy.txt:80
 msgid ""
-"For further information on Wildfire Games Privacy Policies, visit "
-"https://trac.wildfiregames.com/wiki/UserDataProtection"
-msgstr "要取得更多關於 Wildfire Games 隱私政策的資訊，請造訪 https://trac.wildfiregames.com/wiki/UserDataProtection"
+"For further information on Wildfire Games Privacy Policies, visit https://"
+"trac.wildfiregames.com/wiki/UserDataProtection"
+msgstr ""
+"要取得更多關於 Wildfire Games 隱私政策的資訊，請造訪 https://trac."
+"wildfiregames.com/wiki/UserDataProtection"
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:1
 msgid ""
@@ -1078,47 +1153,55 @@ msgstr "[font=\"sans-bold-18\"]0 A.D. 帝國崛起多人遊戲大廳服務條�
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:5
 msgid ""
-"The 0 A.D. Empires Ascendant Multiplayer Lobby is an online service provided"
-" by Wildfire Games that allows players to set up online multiplayer matches,"
-" discuss the game in a public chat room and gain a rating that reflects "
-"their skill."
-msgstr "0 A.D. 帝國崛起多人遊戲大廳是 Wildfire Games 提供的線上服務，讓玩家建立線上多人對戰、在公共聊天室討論遊戲並獲得反映其技術的積分。"
+"The 0 A.D. Empires Ascendant Multiplayer Lobby is an online service provided "
+"by Wildfire Games that allows players to set up online multiplayer matches, "
+"discuss the game in a public chat room and gain a rating that reflects their "
+"skill."
+msgstr ""
+"0 A.D. 帝國崛起多人遊戲大廳是 Wildfire Games 提供的線上服務，讓玩家建立線上多"
+"人對戰、在公共聊天室討論遊戲並獲得反映其技術的積分."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:7
 msgid ""
 "Due to the subject matter of historic warfare, description and depiction of "
 "violence and the language on the Multiplayer Lobby, 0 A.D. and the "
 "Multiplayer Lobby are not directed to young children (COPPA §312.2)."
-msgstr "因歷史性戰爭主題、對暴力的敘述與描繪及多人遊戲大廳中的用語，0 A.D. 與多人遊戲大廳不針對幼兒（兒童線上隱私保護法 §312.2）。"
+msgstr ""
+"因歷史性戰爭主題、對暴力的敘述與描繪及多人遊戲大廳中的用語，0 A.D. 與多人遊戲"
+"大廳不針對幼兒（兒童線上隱私保護法 §312.2）."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:8
 msgid "The minimum age to use the Multiplayer Lobby is 13."
-msgstr "使用多人遊戲大廳的最低年齡是 13 歲。"
+msgstr "使用多人遊戲大廳的最低年齡是 13 歲."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:10
 #: gui/prelobby/common/terms/Terms_of_Use.txt:5
 msgid ""
-"[font=\"sans-bold-14\"]By using the 0 A.D. Multiplayer Lobby, you agree "
-"to:[/font]"
+"[font=\"sans-bold-14\"]By using the 0 A.D. Multiplayer Lobby, you agree to:[/"
+"font]"
 msgstr "[font=\"sans-bold-14\"]使用 0 A.D. 多人遊戲大廳，表示您同意：[/font]"
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:11
 msgid " 1. Follow all usage policies."
-msgstr " 1. 遵守所有使用政策。"
+msgstr " 1. 遵守所有使用政策."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:12
 msgid ""
 " 2. Not use the service with third-party software or mods that prevents the "
 "user from being informed of updated Terms and Conditions, unless authorized "
 "by a Wildfire Games team member."
-msgstr " 2. 除非 Wildfire Games 團隊成員授權，不得將該服務與防止使用者被告知更新條款的第三方軟體或模組一起使用。"
+msgstr ""
+" 2. 除非 Wildfire Games 團隊成員授權，不得將該服務與防止使用者被告知更新條款"
+"的第三方軟體或模組一起使用."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:13
 msgid ""
 " 3. Use the service at your own risk. Wildfire Games does not take "
 "responsibility for the content posted by users or damages resulting from "
 "this service."
-msgstr " 3. 自行承擔使用本服務的風險。Wildfire Games 不對使用者發布的內容或此服務造成的損害負責。"
+msgstr ""
+" 3. 自行承擔使用本服務的風險. Wildfire Games 不對使用者發布的內容或此服務造成"
+"的損害負責."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:15
 msgid "[font=\"sans-bold-14\"]Wildfire Games reserves the right to:[/font]"
@@ -1128,35 +1211,39 @@ msgstr "[font=\"sans-bold-14\"]Wildfire Games 保留以下權利：[/font]"
 msgid ""
 " 1. Moderate the service, i.e. to enforce the Terms of Use by restricting, "
 "suspending or terminating user accounts."
-msgstr " 1. 管理服務，如透過限制、暫停或終止使用者帳號執行使用條款。"
+msgstr " 1. 管理服務，如透過限制、暫停或終止使用者帳號執行使用條款."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:17
 msgid " 2. Appoint others to moderate the service."
-msgstr " 2. 委任他人管理服務。"
+msgstr " 2. 委任他人管理服務."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:18
 msgid " 3. Discontinue or interrupt any part of the service at any time."
-msgstr " 3. 隨時停止或中斷服務的任何部分。"
+msgstr " 3. 隨時停止或中斷服務的任何部分."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:19
 msgid ""
-" 4. Change the service or the terms. The document date of the terms indicate"
-" its version, and the user is informed of the new terms before being able to"
-" use the service again."
-msgstr " 4. 變更服務或條款。條款的文件日期表示其版本，且有新版條款時會在使用者能再次使用服務前告知。"
+" 4. Change the service or the terms. The document date of the terms indicate "
+"its version, and the user is informed of the new terms before being able to "
+"use the service again."
+msgstr ""
+" 4. 變更服務或條款. 條款的文件日期表示其版本，且有新版條款時會在使用者能再次"
+"使用服務前告知."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:20
 msgid ""
 " 5. Process personal data in accordance with the Lobby Privacy Policy, the "
 "General Data Protection Regulation (GDPR) and the Children's Online Privacy "
 "Protection Act (COPPA) where applicable."
-msgstr " 5. 可適用時根據大廳的隱私政策、一般資料保護規範 (GDPR) 及兒童線上隱私保護法 (COPPA) 處理個人資料。"
+msgstr ""
+" 5. 可適用時根據大廳的隱私政策、一般資料保護規範 (GDPR) 及兒童線上隱私保護法 "
+"(COPPA) 處理個人資料."
 
 #: gui/prelobby/common/terms/Terms_of_Service.txt:22
 msgid ""
-"If parts of the terms are held to be illegal or otherwise unenforceable, the"
-" remainder of the terms shall still apply ('severability')."
-msgstr "若有部分條款因違法或其他原因無法執行，其餘條款仍然有效（「可分性」）。"
+"If parts of the terms are held to be illegal or otherwise unenforceable, the "
+"remainder of the terms shall still apply ('severability')."
+msgstr "若有部分條款因違法或其他原因無法執行，其餘條款仍然有效（「可分性」）."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:1
 msgid ""
@@ -1168,30 +1255,33 @@ msgstr "[font=\"sans-bold-18\"]0 A.D. 帝國崛起多人遊戲大廳使用條�
 msgid ""
 " 1. a. Only create one account per person on the service unless authorized "
 "by Wildfire Games."
-msgstr " 1. a. 除非 Wildfire Games 授權，每個人只能在此服務建立一個帳號。"
+msgstr " 1. a. 除非 Wildfire Games 授權，每個人只能在此服務建立一個帳號."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:7
 msgid ""
 "    b. Not share your account with anyone and not publish or divulge to "
 "anyone the account password."
-msgstr "    b. 不與任何人共享您的帳號，也不向任何人公佈或洩露帳號密碼。"
+msgstr "    b. 不與任何人共享您的帳號，也不向任何人公佈或洩露帳號密碼."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:8
 msgid ""
 " 2. Not impersonate other users of the service and only use your registered "
 "username in multiplayer matches."
-msgstr " 2. 不得冒充服務中的其他使用者，且僅在多人對戰中使用您註冊的使用者名稱。"
+msgstr ""
+" 2. 不得冒充服務中的其他使用者，且僅在多人對戰中使用您註冊的使用者名稱."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:9
 msgid " 3. Not post profanity, pejorative terms or pornographic content."
-msgstr " 3. 不得發布褻瀆、貶抑用詞或色情內容。"
+msgstr " 3. 不得發布褻瀆、貶抑用詞或色情內容."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:10
 msgid ""
 " 4. Not harass, harm, intimidate, discriminate, threaten, defame, cause "
 "damage to others or purposefully demean the worth of others using this "
 "service."
-msgstr " 4. 不得騷擾、傷害、恐嚇、歧視、威脅、誹謗，對其他人造成傷害或故意貶低使用此服務的其他人的價值。"
+msgstr ""
+" 4. 不得騷擾、傷害、恐嚇、歧視、威脅、誹謗，對其他人造成傷害或故意貶低使用此"
+"服務的其他人的價值."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:11
 msgid ""
@@ -1199,11 +1289,13 @@ msgid ""
 "information (for example real name, location, ID) or private details (for "
 "example social media or messenger account names) of others without their "
 "consent."
-msgstr " 5. 不得未經他人同意以透露個人資料（如真實姓名、地址、身分證明等）或私人資訊（如社群媒體或通訊軟體帳號與名稱）侵犯他人隠私。"
+msgstr ""
+" 5. 不得未經他人同意以透露個人資料（如真實姓名、地址、身分證明等）或私人資訊"
+"（如社群媒體或通訊軟體帳號與名稱）侵犯他人隠私."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:12
 msgid " 6. Not incite violence or promote illegal acts."
-msgstr " 6. 不得煽動暴力或宣傳非法舉動。"
+msgstr " 6. 不得煽動暴力或宣傳非法舉動."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:13
 msgid ""
@@ -1211,32 +1303,37 @@ msgid ""
 "any of the statistics which impact it. (Examples of this are, but are not "
 "limited to: cheating in ranked games, reverse engineering the service, and "
 "taking advantage of other users of the service.)"
-msgstr " 7. 不得試圖人為調整任何使用者在服務中的積分或任何造成影響的統計數據。（例如但不限於：在排名遊戲中作弊、對此服務進行逆向工程及利用其他本服務的使用者。)"
+msgstr ""
+" 7. 不得試圖人為調整任何使用者在服務中的積分或任何造成影響的統計數據. （例如"
+"但不限於：在排名遊戲中作弊、對此服務進行逆向工程及利用其他本服務的使用者. )"
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:14
 msgid ""
 " 8. Not undermine the intended gameplay or purposefully gain unfair "
 "advantages in multiplayer matches (for example cheating, using exploits or "
 "bugs)."
-msgstr " 8. 不得破壞預期的遊戲玩法或刻意在多人遊戲對戰中獲得不公平的優勢（例如利用外掛或漏洞）。"
+msgstr ""
+" 8. 不得破壞預期的遊戲玩法或刻意在多人遊戲對戰中獲得不公平的優勢（例如利用外"
+"掛或漏洞）."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:15
 msgid ""
 " 9. Not spam the service and not post large amounts of repetitive or "
 "unwanted messages."
-msgstr " 9. 不得向服務發送垃圾訊息，也不得發布大量重複或不需要的訊息。"
+msgstr " 9. 不得向服務發送垃圾訊息，也不得發布大量重複或不需要的訊息."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:16
 msgid ""
 "10. Not use the service to promote specific goods, services, or products "
 "unless authorized by Wildfire Games."
-msgstr "10. 除非 Wildfire Games 授權，不得使用本服務宣傳特定商品、服務或產品。"
+msgstr "10. 除非 Wildfire Games 授權，不得使用本服務宣傳特定商品、服務或產品."
 
 #: gui/prelobby/common/terms/Terms_of_Use.txt:18
 msgid ""
-"If a moderator deems your behavior to be inconsistent with these terms, your"
-" account may be restricted, suspended or terminated."
-msgstr "如果管理員認為您的行為與這些條款不一致，您的帳號可能會被限制、暫停或終止。"
+"If a moderator deems your behavior to be inconsistent with these terms, your "
+"account may be restricted, suspended or terminated."
+msgstr ""
+"如果管理員認為您的行為與這些條款不一致，您的帳號可能會被限制、暫停或終止."
 
 #: gui/prelobby/common/terms/termslobby.js:9
 msgid "Terms of Service"
@@ -1244,7 +1341,7 @@ msgstr "服務條款"
 
 #: gui/prelobby/common/terms/termslobby.js:10
 msgid "Please read and accept the Terms of Service."
-msgstr "請閱讀並同意服務條款。"
+msgstr "請閱讀並同意服務條款."
 
 #: gui/prelobby/common/terms/termslobby.js:19
 msgid "Terms of Use"
@@ -1252,7 +1349,7 @@ msgstr "使用條款"
 
 #: gui/prelobby/common/terms/termslobby.js:20
 msgid "Please read and accept the Terms of Use."
-msgstr "請閱讀並同意使用條款。"
+msgstr "請閱讀並同意使用條款."
 
 #: gui/prelobby/common/terms/termslobby.js:29
 msgid "Privacy Policy"
@@ -1260,7 +1357,7 @@ msgstr "隱私政策"
 
 #: gui/prelobby/common/terms/termslobby.js:30
 msgid "Please read and accept the Privacy Policy."
-msgstr "請閱讀並接受隱私政策。"
+msgstr "請閱讀並接受隱私政策."
 
 #: gui/prelobby/entrance/entrance.xml:(caption):20
 msgid "Create a new account"
